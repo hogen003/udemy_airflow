@@ -8,5 +8,5 @@ from datetime import datetime
     tags=['stock_market']
 )
 
-def stock_market();
+def stock_market():
     pass    
